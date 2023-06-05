@@ -5,7 +5,7 @@
         <item>
             <title>Version 3.0.0</title>
             <description>desc</description>
-            <pubDate>Fri, 02 June 2023 12:00:00 +0000</pubDate>
+            <pubDate>Fri, 05 June 2023 14:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.rapidsupplies.the_horeca_store" sparkle:version="3.0.0" sparkle:os="android" />
         </item>
     </channel>
